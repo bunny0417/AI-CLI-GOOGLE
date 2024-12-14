@@ -15,6 +15,8 @@ The tool provides a clean and minimalistic output, suppressing unwanted logs and
     🔒 Secure: API key is kept secure and is not hardcoded into the script.
 Here’s a condensed version of the **Installation** section for your **AI-CLI-GOOGLE** tool, formatted for easy viewing on a single page:
 
+Here is the updated **Installation** section with the 4th step and the correct API key link:
+
 ---
 
 ## 📦 Installation
@@ -54,11 +56,27 @@ Before using the tool, make sure to set your **Google Generative AI** API key.
   export GENAI_API_KEY="your_api_key_here"
   ```
 
-You can get the API key from the [Google Cloud Platform Console](https://console.cloud.google.com/) by creating a project and enabling the Generative AI API.
+You can get the API key from [Google AI Studio](https://aistudio.google.com/apikey) by creating a project and obtaining your API key.
+
+### 4. Run the Tool
+
+Once everything is set up, you can start generating content by passing a prompt to the tool:
+
+```bash
+python ai-cli-google.py -p "Your prompt here"
+```
+
+For example:
+
+```bash
+python ai-cli-google.py -p "Tell me a joke!"
+```
+
+This will display the AI-generated response directly in your terminal.
 
 ---
 
-Now you're ready to use **AI-CLI-GOOGLE**! Just follow the **Usage** instructions to start generating content.
+Now you're ready to use **AI-CLI-GOOGLE**! Just follow the instructions to start generating content.
 
 
 
