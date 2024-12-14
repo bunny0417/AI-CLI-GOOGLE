@@ -1,9 +1,9 @@
-AI-CLI-GOOGLE
+[AI-CLI-GOOGLE
 
 AI-CLI-GOOGLE is a powerful and easy-to-use command-line tool built in Python that allows users to interact with Google's Generative AI model. With this tool, you can effortlessly generate content based on custom prompts directly from your terminal.
 
 The tool provides a clean and minimalistic output, suppressing unwanted logs and warnings. It is designed to work on both Windows and Linux/macOS platforms and supports seamless integration with your existing workflow.
-
+](https://github.com/bunny0417/AI-CLI-GOOGLE)
 
 
 ## 📦 Installation
